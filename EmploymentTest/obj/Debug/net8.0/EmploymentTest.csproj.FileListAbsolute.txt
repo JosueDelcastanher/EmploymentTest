@@ -35,3 +35,8 @@ C:\Users\josue\source\repos\EmploymentTest\EmploymentTest\obj\Debug\net8.0\Emplo
 C:\Users\josue\source\repos\EmploymentTest\EmploymentTest\obj\Debug\net8.0\EmploymentTest.genruntimeconfig.cache
 C:\Users\josue\source\repos\EmploymentTest\EmploymentTest\obj\Debug\net8.0\ref\EmploymentTest.dll
 C:\Users\josue\source\repos\EmploymentTest\EmploymentTest\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\josue\source\repos\EmploymentTest\EmploymentTest\obj\Debug\net8.0\EmploymentTest.sourcelink.json
+C:\Users\josue\source\repos\EmploymentTest\EmploymentTest\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\josue\source\repos\EmploymentTest\EmploymentTest\bin\Debug\net8.0\nunit.framework.legacy.dll
+C:\Users\josue\source\repos\EmploymentTest\EmploymentTest\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Users\josue\source\repos\EmploymentTest\EmploymentTest\bin\Debug\net8.0\xunit.core.dll

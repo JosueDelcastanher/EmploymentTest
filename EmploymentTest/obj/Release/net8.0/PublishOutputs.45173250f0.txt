@@ -1,0 +1,16 @@
+C:\Users\josue\source\repos\EmploymentTest\EmploymentTest\obj\Release\net8.0\PubTmp\Out\EmploymentTest.exe
+C:\Users\josue\source\repos\EmploymentTest\EmploymentTest\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\josue\source\repos\EmploymentTest\EmploymentTest\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\josue\source\repos\EmploymentTest\EmploymentTest\obj\Release\net8.0\PubTmp\Out\EmploymentTest.dll
+C:\Users\josue\source\repos\EmploymentTest\EmploymentTest\obj\Release\net8.0\PubTmp\Out\EmploymentTest.deps.json
+C:\Users\josue\source\repos\EmploymentTest\EmploymentTest\obj\Release\net8.0\PubTmp\Out\EmploymentTest.runtimeconfig.json
+C:\Users\josue\source\repos\EmploymentTest\EmploymentTest\obj\Release\net8.0\PubTmp\Out\EmploymentTest.pdb
+C:\Users\josue\source\repos\EmploymentTest\EmploymentTest\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\josue\source\repos\EmploymentTest\EmploymentTest\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\josue\source\repos\EmploymentTest\EmploymentTest\obj\Release\net8.0\PubTmp\Out\nunit.framework.dll
+C:\Users\josue\source\repos\EmploymentTest\EmploymentTest\obj\Release\net8.0\PubTmp\Out\nunit.framework.legacy.dll
+C:\Users\josue\source\repos\EmploymentTest\EmploymentTest\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\josue\source\repos\EmploymentTest\EmploymentTest\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\josue\source\repos\EmploymentTest\EmploymentTest\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\josue\source\repos\EmploymentTest\EmploymentTest\obj\Release\net8.0\PubTmp\Out\xunit.abstractions.dll
+C:\Users\josue\source\repos\EmploymentTest\EmploymentTest\obj\Release\net8.0\PubTmp\Out\xunit.core.dll

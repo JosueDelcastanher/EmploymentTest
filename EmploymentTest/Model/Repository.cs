@@ -14,6 +14,7 @@
             public Owner owner { get; set; }
             public string description { get; set; }
             public string html_url { get; set; }
+            public string avatar_url => owner.avatar_url;
         }
     }
 }

@@ -10,7 +10,6 @@ namespace EmploymentTest.Controllers
     [Route("[controller]")]
     public class GitHubController
     {
-
         [HttpGet(Name = "GetRepository")]
         public async Task<IEnumerable<Repository.Root>> GetRepositoryAsync()
         {
@@ -20,19 +19,17 @@ namespace EmploymentTest.Controllers
             try
             {
                 var client = new HttpClient();
-                client.DefaultRequestHeaders.Add("user-agent", "PostmanRuntime/7.43.0"); //trocar variavel;;;
-                // Faz a requisição GET
+                client.DefaultRequestHeaders.Add("user-agent", "EmploymentTest");
                 HttpResponseMessage response = client.GetAsync(baseUrl).Result;
-                response.EnsureSuccessStatusCode();
 
                 if (response.IsSuccessStatusCode)
                 {
-                    return await response.Content.ReadFromJsonAsync<IEnumerable<Repository.Root>>();
+                    return await response?.Content?.ReadFromJsonAsync<IEnumerable<Repository.Root>>();
                 }
             }
             catch (HttpRequestException e)
             {
-                Console.WriteLine($"Erro na requisição: {e.Message}");
+                throw new HttpRequestException(e.ToString());
             }
 
             return new List<Repository.Root>();

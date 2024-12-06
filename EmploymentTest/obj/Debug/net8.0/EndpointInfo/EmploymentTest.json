@@ -78,6 +78,11 @@
           "html_url": {
             "type": "string",
             "nullable": true
+          },
+          "avatar_url": {
+            "type": "string",
+            "nullable": true,
+            "readOnly": true
           }
         },
         "additionalProperties": false
